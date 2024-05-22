@@ -1,0 +1,27 @@
+{
+    "recipes":[
+        {
+          "id": "1",
+         "title": "Recipe1",
+         "image": "Recipe1",
+         "time": 10,
+         "description": "Recipe1 description.",
+         "vegan": true
+    },  
+    {
+        "id": "2",
+        "title": "Recipe2",
+        "image": "Recipe2.jpg",
+        "time": 20,
+        "description": "Recipe2 description.",
+        "vegan": false
+    }
+
+
+]
+}
+
+
+
+
+
